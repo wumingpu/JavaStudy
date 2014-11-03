@@ -1,0 +1,20 @@
+package cn.p2.wrapper.test;
+
+/*
+ * 对一个字符串中的数值进行从小到大的排序
+ * 
+ * “20 78 9 -7 88 36 29”
+ * 
+ * 思路：
+ * 1.排序。
+ * 2.如何获取这个字符串中的这些需要排序的数值？
+ * 用字符串分割方法。
+ */
+public class WapperTest {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

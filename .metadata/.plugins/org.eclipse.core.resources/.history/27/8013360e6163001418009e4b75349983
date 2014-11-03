@@ -1,0 +1,10 @@
+package cn.p2.wrapper.test;
+
+public class WapperTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
