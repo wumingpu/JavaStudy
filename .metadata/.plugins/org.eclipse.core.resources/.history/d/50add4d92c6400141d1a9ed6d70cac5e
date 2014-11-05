@@ -1,0 +1,10 @@
+package cn.p3.collection.demo;
+
+public class CollectionDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
