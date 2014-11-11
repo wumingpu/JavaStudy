@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+D:\GitHubProject\JavaStudy\.metadata\.plugins\org.eclipse.jdt.core
-3379833631.index
-3496942174.index
