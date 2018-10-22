@@ -11,6 +11,8 @@ public class TestDateFormate {
 		DateFormat df = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 		String str = df.format(new Date(400000000));
 		System.out.println(str);
+		
+		
 	}
 
 }
